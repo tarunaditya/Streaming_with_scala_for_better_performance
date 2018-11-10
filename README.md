@@ -1,3 +1,5 @@
+Hey guys ,
+ive included test producer too so that you can just pick these for deployment
 
 # Spark Streaming Examples
 
@@ -20,10 +22,3 @@
 ## Structured Streaming
 
 For examples of structured streaming as introduced in Spark 2.0, see the [structured](structured) directory.
-
-## Streaming with Apache Kafka
-
-For a new, separate GitHub project that provides self-contained examples of using
-Spark Streaming with Kafka, please look
-[here](https://github.com/spirom/spark-streaming-with-kafka).
-# Streaming_with_scala_for_better_performance
